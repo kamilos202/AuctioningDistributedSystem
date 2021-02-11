@@ -1,0 +1,16 @@
+
+user;Tojesthaslo123;false;1
+tata;12345678;true;2
+lala;12345678;true;3
+asfa;afsrgraegaregegea;false;4
+sdffrgrd;fashgfdahhdsah;true;5
+me;password;false;6
+dsfd;dsfsdfgsdgdsgsd;true;7
+dupa;dupadupa;true;8
+user1;user1user1;true;9
+user2;user2user2;true;10
+user3;user3user3;false;11
+costam;costamcostam;true;12
+user4;user4user4;false;13
+lol;lollollol;true;14
+jgroupstest;jgroupstest;false;15
